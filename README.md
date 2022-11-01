@@ -1,2 +1,2 @@
-# Recolectando-alimento-3
-proyecto final
+# Tiro-con-arco-7
+PRO - C28
